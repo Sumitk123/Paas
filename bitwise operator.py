@@ -1,5 +1,5 @@
 def bitOper():
-    print("sagar panchal \nRoll no:T094")
+    print("sumit \nRoll no:T085")
     a=int(input("Enter the value of a: " ))
     b=int(input("Enter the value of b: "))
     print("vaule of AND operator on a and b is = ", a&b)
